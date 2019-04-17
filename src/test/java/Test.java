@@ -1,5 +1,6 @@
 public class Test {
-public static void main(String args[])
+@org.testng.annotations.Test
+        public  void main1()
 {
     System.out.println("sample testing");
 }
